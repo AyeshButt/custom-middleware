@@ -480,11 +480,3 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Vim temporary swap files
-*.swp
-/custom-middleware.sln
-/custom-middleware/appsettings.Development.json
-/custom-middleware/appsettings.json
-/custom-middleware/custom-middleware.csproj
-/custom-middleware/wwwroot
-/custom-middleware
